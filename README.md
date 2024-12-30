@@ -2,7 +2,7 @@
 I am interested in code and designing so I signed up for GitHub to learn more (and maybe make something!)
 
 ## Interested/Working on ‼️
-Working on a fork I made of 0x5abe's PlatformerSaves that ports the mod into the latest version of Geometry Dash.
+- Working on a fork I made of 0x5abe's PlatformerSaves that ports the mod into the latest version of Geometry Dash. You can see that by clicking [here](https://github.com/IamkeeDEV/PlatformerSaves2.207) or viewing my pins.
 
 ## Currently learning 🏫
 I am trying to learn BatchCode, I know the basics like echo but more complicated stuff I do not know yet.
