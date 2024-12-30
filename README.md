@@ -7,6 +7,9 @@ I am interested in code and designing so I signed up for GitHub to learn more (a
 ## Currently learning 🏫
 I am trying to learn BatchCode, I know the basics like echo but more complicated stuff I do not know yet.
 
+## Fun fact 💡
+Even though I joined GitHub in Early 2022, I actually started in 2024 since I did not do anything until late 2024.
+
 ## Extra 🎁
 If you have any tips for GitHub, it would be nice to let me know about it since I am still very much new to this.
 
