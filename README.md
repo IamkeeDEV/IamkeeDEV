@@ -1,4 +1,14 @@
-## Hi there 👋
+## About me 🔎
+I am interested in code and designing so I signed up for GitHub to learn more (and maybe make something!)
+
+## Interested/Working on ‼️
+Working on a fork I made of 0x5abe's PlatformerSaves that ports the mod into the latest version of Geometry Dash.
+
+## Currently learning 🏫
+I am trying to learn BatchCode, I know the basics like echo but more complicated stuff I do not know yet.
+
+## Extra 🎁
+If you have any tips for GitHub, it would be nice to let me know about it since I am still very much new to this.
 
 <!--
 **IamkeeDEV/IamkeeDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
